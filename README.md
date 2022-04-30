@@ -1,5 +1,5 @@
 # Pandas-Challenge: PyCitySchools
-The Python module Pandas was used to analyze district-wide [school](../blob/main/Resources/schools_complete.csv) and [standardized test data](../blob/main/Resources/students_complete.csv). Information provided includes students' math and reading scores and school metrics. All analyses were run and saved as DataFrames in the file [schools.ipynb](../blob/main/PyCitySchools/schools.ipynb). 
+The Python module Pandas was used to analyze district-wide [school](Resources/schools_complete.csv) and [standardized test data](Resources/students_complete.csv). Information provided includes students' math and reading scores and school metrics. All analyses were run and saved as DataFrames in the file [schools.ipynb](PyCitySchools/schools.ipynb). 
 
 ## Analyses
 ### District Summary
